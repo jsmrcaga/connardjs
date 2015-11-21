@@ -1,0 +1,32 @@
+{
+	"name": "connard",
+	"version": "0.0.1",
+	"description": "Le package NPM de ConnardJS",
+	"author": "Jo Colina <jo@jocolina.com>",
+	"contributors": [{
+		"name": "Jo Colina",
+		"email": "jo@jocolina.com"
+	}],
+	"scripts": {
+		"start": "node connardjs.js",
+	},
+	"main": "connardjs.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jsmrcaga/connardjs.git"
+	},
+	"keywords": [
+		"Thomas",
+		"Chantrait",
+		"connard",
+		"connardjs"
+	],
+	"dependencies": {
+		"fs": "*",
+		"readline": "*",
+	},
+	"preferGlobal": false,
+	"private": false,
+	"license": "MIT"
+}
+	
