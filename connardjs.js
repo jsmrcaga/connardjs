@@ -96,7 +96,9 @@ module.exports = {
 				return results.splice(1);
 			}
 
-		}
+		},
+
+		json: JSON.parse
 
 	},
 
